@@ -17,7 +17,7 @@ body {
   margin: 20px;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(/img/mondinga.png), url(/img/background.png);
+  background-image: url(img/mondinga.png), url(img/background.png);
   background-repeat: no-repeat, no-repeat;
   background-position: 80% -20%, center center;
   background-size: 64%, cover;
@@ -165,7 +165,7 @@ h1 {
 }
 
 .botones a {
-  background-image: url(/img/play.svg);
+  background-image: url(img/play.svg);
   background-repeat: no-repeat;
   padding-left: 40px;
   color: #263F65;
